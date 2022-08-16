@@ -1,4 +1,3 @@
-# from selenium_browsers_drivers import geckodiver as FirefoxDriverManager
 from getpass import getpass
 
 from selenium import webdriver
